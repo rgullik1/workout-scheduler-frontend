@@ -77,7 +77,7 @@ export default function HomeScreen() {
     </ParallaxScrollView>
   );
 }
-
+ 
 const styles = StyleSheet.create({
   titleContainer: {
     flexDirection: 'row',
